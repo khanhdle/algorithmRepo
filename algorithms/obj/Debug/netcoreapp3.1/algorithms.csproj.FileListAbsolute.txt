@@ -1,0 +1,13 @@
+C:\GitHub\algorithmRepo\algorithms\obj\Debug\netcoreapp3.1\algorithms.csprojAssemblyReference.cache
+C:\GitHub\algorithmRepo\algorithms\obj\Debug\netcoreapp3.1\algorithms.csproj.CoreCompileInputs.cache
+C:\GitHub\algorithmRepo\algorithms\obj\Debug\netcoreapp3.1\algorithms.AssemblyInfoInputs.cache
+C:\GitHub\algorithmRepo\algorithms\obj\Debug\netcoreapp3.1\algorithms.AssemblyInfo.cs
+C:\GitHub\algorithmRepo\algorithms\bin\Debug\netcoreapp3.1\algorithms.exe
+C:\GitHub\algorithmRepo\algorithms\bin\Debug\netcoreapp3.1\algorithms.deps.json
+C:\GitHub\algorithmRepo\algorithms\bin\Debug\netcoreapp3.1\algorithms.runtimeconfig.json
+C:\GitHub\algorithmRepo\algorithms\bin\Debug\netcoreapp3.1\algorithms.runtimeconfig.dev.json
+C:\GitHub\algorithmRepo\algorithms\bin\Debug\netcoreapp3.1\algorithms.dll
+C:\GitHub\algorithmRepo\algorithms\bin\Debug\netcoreapp3.1\algorithms.pdb
+C:\GitHub\algorithmRepo\algorithms\obj\Debug\netcoreapp3.1\algorithms.dll
+C:\GitHub\algorithmRepo\algorithms\obj\Debug\netcoreapp3.1\algorithms.pdb
+C:\GitHub\algorithmRepo\algorithms\obj\Debug\netcoreapp3.1\algorithms.genruntimeconfig.cache
