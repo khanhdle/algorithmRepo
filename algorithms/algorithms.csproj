@@ -6,9 +6,15 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Core\NewFolder\" />
-    <Folder Include="BackTracking\" />
-    <Folder Include="Combinations\" />
+    <Compile Remove="BackTracking\**" />
+    <Compile Remove="Combinations\**" />
+    <Compile Remove="Core\NewFolder\**" />
+    <EmbeddedResource Remove="BackTracking\**" />
+    <EmbeddedResource Remove="Combinations\**" />
+    <EmbeddedResource Remove="Core\NewFolder\**" />
+    <None Remove="BackTracking\**" />
+    <None Remove="Combinations\**" />
+    <None Remove="Core\NewFolder\**" />
   </ItemGroup>
 
 </Project>

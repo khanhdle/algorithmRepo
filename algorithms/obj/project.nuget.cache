@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "em/G59xiFhY3PxBs1fG/SZj4oL1FNcPLwyAONhs6p+p6FLxPuLlZsTvA+lcN55I3Rhv5Mxx22nzyiI2GtVtMKw==",
+  "dgSpecHash": "hffX6S7occf1jJQbpFLaMOWWT7IMtTXzPYzJCLVXGSQKujlosWln12EjBqEyKXJfOHrgGC0KKJIBPcsJy/ATvg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\khanh\\Documents\\algorithmRepo\\algorithms\\algorithms.csproj",
+  "projectFilePath": "C:\\github\\algorithmRepoClone\\algorithms\\algorithms.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
